@@ -3,7 +3,7 @@ Quick Sort
 Merge Sort
 
 Algorithm:
-
+ 
 CODE:
 1. QUICK SORT:
 #include <stdio.h>
