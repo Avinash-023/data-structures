@@ -6,7 +6,7 @@ CODE:
 #include <stdlib.h>
 #include <limits.h>
 #include <stdbool.h>
-
+ 
 #define V 5
 
 int minDistance(int dist[], bool sptSet[]) {
